@@ -1,0 +1,1 @@
+This is the project tells us how to use EmbeddedObject as Key(Primary Id) in Hibernate Project
